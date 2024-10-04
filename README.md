@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+<br>Here's a cool and tech-savvy "About Me" section for your GitHub profile, focusing on your Python expertise and automation security work:<br><br>About Me 🚀<br>Hey there! I'm Santi Friquet, a Security Engineer with a passion for Python automation and cloud security. With over a decade of experience in the industry, I specialize in building and optimizing incident response and threat detection systems that scale across complex cloud environments.<br><br>🔐 Security Automation Enthusiast: From designing custom automation pipelines to building in-house security tools, I’m all about streamlining security operations using Python, Terraform, and CI/CD tools like GitLab. My projects span everything from creating SIEM systems to cloud-native security controls, incident detection, and response frameworks.<br><br>⚡ Open Source Contributor: I love contributing to the community with tools that help other security professionals detect and respond to incidents faster. Check out some of my open-source projects like DROID and LUSAT. These tools are designed to enhance cloud detection and response capabilities for security teams everywhere.<br><br>☁️ Cloud Security Expert: With hands-on experience across AWS, GCP, and hybrid infrastructures, I build robust security solutions that protect companies at scale. My work at Zero Hash and ASAPP involved creating scalable security systems and ensuring compliance with SOC-2 and PCI DSS.<br><br>🔍 Forensics & Incident Response: Whether it's forensic analysis, security monitoring, or responding to complex incidents, I'm always looking for ways to push the boundaries of security engineering using open-source tools and custom scripts.<br><br>When I’m not coding or securing the cloud, you can find me working on personal projects or teaching others how to apply technology to forensic investigations.<br><br>Let’s connect and collaborate on making the internet a safer place, one line of code at a time! 🛡️
 
-<!--
-**Stuxend/stuxend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/friquetito) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Stuxend&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Stuxend&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stuxend&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Stuxend&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
